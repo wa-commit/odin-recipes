@@ -50,11 +50,18 @@ nav ul {
 
 .main-header {
     background-color: rgba(144,152,125, 0.6);
-    background-image: url("images/parnis-azimi-GWWOvuVB1NI-unsplash.jpg");
     background-blend-mode: multiply;
     background-size: auto;
     background-position: center;
     padding-bottom: 30px;
+}
+
+.main-header-lasagna {
+    background-image: url("images/parnis-azimi-GWWOvuVB1NI-unsplash.jpg");
+}
+
+.main-header-pancake {
+    background-image: url("images/portuguese-gravity-qq3hT-CYD1I-unsplash.jpg");
 }
 
 .recipe-name {
